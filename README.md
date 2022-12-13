@@ -2,4 +2,4 @@
 
 
 - 🔭 I’m currently working on Ataria City
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Lua
